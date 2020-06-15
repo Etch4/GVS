@@ -1,3 +1,4 @@
+// confirmed github in VSC !!
 #include <stdio.h>
 #include <string.h>
 
